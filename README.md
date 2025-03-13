@@ -31,6 +31,13 @@ To get a local copy up and running:
    ```
 2. Open index.html in your browser
 
+## Development
+
+1. Create the grid layout using JavaScript
+2. Implement hover effects
+3. Add user interface controls
+4. Style the page to look like an Etch-A-Sketch
+
 ## Contributing
 
 Contributions, issues, and feature requests are welcome!
