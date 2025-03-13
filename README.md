@@ -19,7 +19,7 @@ A browser version of something between a sketchpad and an Etch-A-Sketch, built a
 
 ## Live Demo
 
-[View Demo](add-your-live-demo-link-here)
+[View Demo](https://themikeba.github.io/etch_a_sketch/)
 
 ## Getting Started
 
@@ -27,7 +27,7 @@ To get a local copy up and running:
 
 1. Clone the repository
    ```bash
-   git clone git@github.com:your-username/etch_a_sketch.git
+   git clone git@github.com:TheMikeBa/etch_a_sketch.git
    ```
 2. Open index.html in your browser
 
